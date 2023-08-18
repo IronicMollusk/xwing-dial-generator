@@ -17,5 +17,6 @@ https://github.com/guidokessels/xwing-data2
 ## Attribution
 the json source comes directly from guidokessels xwing-data2 Repository here:
 https://github.com/guidokessels/xwing-data2
+
 the fonts come from this repository:
 https://github.com/geordanr/xwing-miniatures-font
