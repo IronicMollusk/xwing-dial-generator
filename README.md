@@ -2,7 +2,7 @@
 Uses python to convert maneuver dial arrays into printable stl files.
 
 ## Basic Instructions
-- Make sure you have blender installed
+- <b>Make sure you have blender 4.2.0 (the LTS version) installed.</b> This likeley wont work on other versions.
 - Download the zip by clicking code > download zip
 - Extract the zip to a folder of your choice.
 - Open TIEsf.json in a text editor.
